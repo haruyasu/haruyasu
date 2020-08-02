@@ -18,6 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Django入門ブログ新機能 レッスン3(検索機能)](https://www.youtube.com/watch?v=QP-VpN6KF40)
+- [Django入門ブログ新機能 レッスン2(カテゴリ機能)](https://www.youtube.com/watch?v=gMWXLCir1Qw)
+- [Django入門ブログ新機能 レッスン1(画像アップロード機能)](https://www.youtube.com/watch?v=1mGna_-daCk)
+- [Django入門ブログ構築チュートリアル レッスン2](https://www.youtube.com/watch?v=k16a3DJHO4k)
+- [Django入門ブログ構築チュートリアル レッスン6(完成)](https://www.youtube.com/watch?v=8Hojuv0T5sM)
 <!-- YOUTUBE:END -->
 
 ---
