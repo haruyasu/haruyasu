@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [3. Djangoポートフォリオサイト構築チュートリアル レッスン3](https://www.youtube.com/watch?v=t-FXOtMSKF0)
 - [2. Djangoポートフォリオサイト構築チュートリアル レッスン2](https://www.youtube.com/watch?v=zI18gQPzdCI)
 - [1. Djangoポートフォリオサイト構築チュートリアル レッスン1](https://www.youtube.com/watch?v=BxQY3D9s_Mc)
 - [3. Django入門ブログ新機能 レッスン3(検索機能)](https://www.youtube.com/watch?v=QP-VpN6KF40)
 - [2. Django入門ブログ新機能 レッスン2(カテゴリ機能)](https://www.youtube.com/watch?v=gMWXLCir1Qw)
-- [1. Django入門ブログ新機能 レッスン1(画像アップロード機能)](https://www.youtube.com/watch?v=1mGna_-daCk)
 <!-- YOUTUBE:END -->
 
 ---
