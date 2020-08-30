@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [2. Django書籍検索システム構築チュートリアル レッスン2(完成)](https://www.youtube.com/watch?v=ImeJCcglkGE)
 - [1. Django書籍検索システム構築チュートリアル レッスン1](https://www.youtube.com/watch?v=WvGQ8gmXZgM)
 - [3. Djangoカスタムユーザー構築チュートリアル レッスン3(完成)](https://www.youtube.com/watch?v=Qv7ZaEfMGzE)
 - [2. Djangoカスタムユーザー構築チュートリアル レッスン2](https://www.youtube.com/watch?v=jImqFpVsU_8)
 - [1. Djangoカスタムユーザー構築チュートリアル レッスン1](https://www.youtube.com/watch?v=bM4_NSkcS-Y)
-- [4. Djangoポートフォリオサイト構築チュートリアル レッスン4(完成)](https://www.youtube.com/watch?v=MJr3u2lKp3E)
 <!-- YOUTUBE:END -->
 
 ---
