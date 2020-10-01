@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [簡単 DjangoでECサイトを構築しよう！ レッスン3](https://www.youtube.com/watch?v=eMnEZU90UQc)
 - [簡単 DjangoでECサイトを構築しよう！ レッスン2](https://www.youtube.com/watch?v=1tc41BmtFF8)
 - [簡単 DjangoでECサイトを構築しよう！ レッスン1](https://www.youtube.com/watch?v=nZAmw2MiHQQ)
 - [Django書籍検索システム構築チュートリアル レッスン2(完成)](https://www.youtube.com/watch?v=ImeJCcglkGE)
 - [Django書籍検索システム構築チュートリアル レッスン1](https://www.youtube.com/watch?v=WvGQ8gmXZgM)
-- [Djangoカスタムユーザー構築チュートリアル レッスン3(完成)](https://www.youtube.com/watch?v=Qv7ZaEfMGzE)
 <!-- YOUTUBE:END -->
 
 ---
