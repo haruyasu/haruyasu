@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [簡単 Djangoで予約サイトを構築しよう！ レッスン4(完成)](https://www.youtube.com/watch?v=IKMJghEYxG8)
 - [簡単 Djangoで予約サイトを構築しよう！ レッスン3](https://www.youtube.com/watch?v=QTV4BGeoa9Y)
 - [簡単 Djangoで予約サイトを構築しよう！ レッスン2](https://www.youtube.com/watch?v=SY6z6fW_OXw)
 - [簡単 Djangoで予約サイトを構築しよう！ レッスン1](https://www.youtube.com/watch?v=Zu-cAgp7Hzw)
 - [簡単 DjangoでECサイトを構築しよう！ レッスン4(完成)](https://www.youtube.com/watch?v=lBUMlebS1-I)
-- [簡単 DjangoでECサイトを構築しよう！ レッスン3](https://www.youtube.com/watch?v=eMnEZU90UQc)
 <!-- YOUTUBE:END -->
 
 ---
