@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Django REST Framework + Next.jsブログ構築チュートリアル](https://www.youtube.com/watch?v=4ZVmEFcOt0Y)
+- [Django REST Framework + Next.js + NextAuth Google認証  レッスン2](https://www.youtube.com/watch?v=TvoMjY291f8)
+- [Django REST Framework + Next.jsでブログ構築 レッスン1](https://www.youtube.com/watch?v=4ZVmEFcOt0Y)
 - [【完全保存版】DjangoアプリVPS(VULTR)デプロイチュートリアル](https://www.youtube.com/watch?v=2Cfabk5Wu8w)
 - [Django REST Framework + Vue.jsで求人情報アプリを構築しよう！ レッスン3(完成)](https://www.youtube.com/watch?v=DWoPg2IDVCI)
 - [Django REST Framework + Vue.jsで求人情報アプリを構築しよう！ レッスン2](https://www.youtube.com/watch?v=nKuUhMxsRfo)
-- [Django REST Framework + Vue.jsで求人情報アプリを構築しよう！ レッスン1](https://www.youtube.com/watch?v=wH4oLSrYdUI)
 <!-- YOUTUBE:END -->
 
 ---
