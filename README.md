@@ -21,8 +21,8 @@
 - [【無料簡単】Django Herokuデプロイチュートリアル](https://www.youtube.com/watch?v=JgZ_9x4Tno4)
 - [Django REST Framework + Next.js + NextAuth Google認証  レッスン2](https://www.youtube.com/watch?v=TvoMjY291f8)
 - [Django REST Framework + Next.jsでブログ構築 レッスン1](https://www.youtube.com/watch?v=4ZVmEFcOt0Y)
-- [【完全保存版】DjangoアプリVPS(VULTR)デプロイチュートリアル](https://www.youtube.com/watch?v=2Cfabk5Wu8w)
-- [Django REST Framework + Vue.jsで求人情報アプリを構築しよう！ レッスン3(完成)](https://www.youtube.com/watch?v=DWoPg2IDVCI)
+- [【完全保存版】DjangoアプリVPS&lpar;VULTR&rpar;デプロイチュートリアル](https://www.youtube.com/watch?v=2Cfabk5Wu8w)
+- [Django REST Framework + Vue.jsで求人情報アプリを構築しよう！ レッスン3&lpar;完成&rpar;](https://www.youtube.com/watch?v=DWoPg2IDVCI)
 <!-- YOUTUBE:END -->
 
 ---
