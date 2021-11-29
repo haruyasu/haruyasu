@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DjangoにPostgreSQL、SendGrid、Cloudinaryを導入する方法](https://www.youtube.com/watch?v=7cUFU659S3Y)
 - [Django REST FrameworkでJWT認証システム構築チュートリアル&lpar;Djoserライブラリ&rpar;](https://www.youtube.com/watch?v=pPvPX8kXh7w)
 - [Django + NextJS + Stripeサブスク有料会員サイト構築チュートリアル2&lpar;Stripe編&rpar;](https://www.youtube.com/watch?v=ReCUBK8DqbA)
 - [Django + NextJS + Stripeサブスク有料会員サイト構築チュートリアル1&lpar;アカウント認証編&rpar;](https://www.youtube.com/watch?v=eyKltg7fz6E)
 - [【無料簡単】Django Herokuデプロイチュートリアル](https://www.youtube.com/watch?v=JgZ_9x4Tno4)
-- [Django REST Framework + Next.js + NextAuth Google認証  レッスン2](https://www.youtube.com/watch?v=TvoMjY291f8)
 <!-- YOUTUBE:END -->
 
 ---
