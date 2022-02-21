@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [フルスタックチャンネルのQ&amp;Aサイトをリリースしました](https://www.youtube.com/watch?v=1411MpGAd6w)
 - [Django + NextJSでインスタ風画像投稿サイト構築チュートリアル](https://www.youtube.com/watch?v=RF0scAcL0YM)
 - [HerokuのPostgresデータベースをアップグレードする方法](https://www.youtube.com/watch?v=Mqqfkbdp-uc)
 - [DjangoにPostgreSQL、SendGrid、Cloudinaryを導入する方法](https://www.youtube.com/watch?v=7cUFU659S3Y)
 - [Django REST FrameworkでJWT認証システム構築チュートリアル&lpar;Djoserライブラリ&rpar;](https://www.youtube.com/watch?v=pPvPX8kXh7w)
-- [Django + NextJS + Stripeサブスク有料会員サイト構築チュートリアル2&lpar;Stripe編&rpar;](https://www.youtube.com/watch?v=ReCUBK8DqbA)
 <!-- YOUTUBE:END -->
 
 ---
