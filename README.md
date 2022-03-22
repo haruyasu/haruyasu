@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [はじめてのReact NativeとDjango REST Frameworkスマホアプリ開発](https://www.youtube.com/watch?v=CWVKWtb2UZk)
 - [DjangoでTailwindCSSを使用する方法](https://www.youtube.com/watch?v=Piew13LGj_o)
 - [DjangoをGitHub ActionsからVPSに自動デプロイする方法](https://www.youtube.com/watch?v=oMuroQTEXf8)
 - [フルスタックチャンネルのQ&amp;Aサイトをリリースしました](https://www.youtube.com/watch?v=1411MpGAd6w)
 - [Django + NextJSでインスタ風画像投稿サイト構築チュートリアル](https://www.youtube.com/watch?v=RF0scAcL0YM)
-- [HerokuのPostgresデータベースをアップグレードする方法](https://www.youtube.com/watch?v=Mqqfkbdp-uc)
 <!-- YOUTUBE:END -->
 
 ---
