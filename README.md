@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Django GraphQL入門とReact Native&lpar;TikTok&rpar;連携 #django #graphql #reactnative #tiktok](https://www.youtube.com/watch?v=W5ma8ySG-fo)
+- [React NativeでTikTokのホーム画面を開発 #reactnative  #tiktok](https://www.youtube.com/watch?v=z8mF0ETrNbI)
 - [はじめてのReact NativeとDjango REST Frameworkスマホアプリ開発](https://www.youtube.com/watch?v=CWVKWtb2UZk)
 - [DjangoでTailwindCSSを使用する方法](https://www.youtube.com/watch?v=Piew13LGj_o)
 - [DjangoをGitHub ActionsからVPSに自動デプロイする方法](https://www.youtube.com/watch?v=oMuroQTEXf8)
-- [フルスタックチャンネルのQ&amp;Aサイトをリリースしました](https://www.youtube.com/watch?v=1411MpGAd6w)
-- [Django + NextJSでインスタ風画像投稿サイト構築チュートリアル](https://www.youtube.com/watch?v=RF0scAcL0YM)
 <!-- YOUTUBE:END -->
 
 ---
