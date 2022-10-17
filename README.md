@@ -18,11 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DjangoをRenderにデプロイする方法 #django #render #deploy](https://www.youtube.com/watch?v=wwYMdRrqHwc)
 - [Django GraphQL入門とReact Native&lpar;TikTok&rpar;連携 #django #graphql #reactnative #tiktok](https://www.youtube.com/watch?v=W5ma8ySG-fo)
 - [React NativeでTikTokのホーム画面を開発 #reactnative  #tiktok](https://www.youtube.com/watch?v=z8mF0ETrNbI)
 - [はじめてのReact NativeとDjango REST Frameworkスマホアプリ開発](https://www.youtube.com/watch?v=CWVKWtb2UZk)
 - [DjangoでTailwindCSSを使用する方法](https://www.youtube.com/watch?v=Piew13LGj_o)
-- [DjangoをGitHub ActionsからVPSに自動デプロイする方法](https://www.youtube.com/watch?v=oMuroQTEXf8)
 <!-- YOUTUBE:END -->
 
 ---
