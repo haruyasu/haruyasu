@@ -1,11 +1,8 @@
 ### Hi there, I'm Haruyasu 👋
 
 ## I'm a Freelance Full Stack Web Robotics Developer!
-- Python
-- Django
-- React
-- Next.js
-- ReactNative
+- Python / Django
+- React / Next.js / ReactNative
 - WebRTC/Livekit
 - Raspberry Pi
 - ROS2
