@@ -1,7 +1,15 @@
 ### Hi there, I'm Haruyasu 👋
 
-## I'm a Freelance Programming Instructor!
-- I'm currently teaching Python, Django, HTML, CSS, JavaScript.
+## I'm a Freelance Full Stack Web Robotics Developer!
+- Python
+- Django
+- React
+- Next.js
+- ReactNative
+- WebRTC/Livekit
+- Raspberry Pi
+- ROS2
+- LiDAR/SLAM
 
 ### Connect with me:
 
