@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Next.js13とSupabaseでAIチャットアプリ構築&lpar;GPT-3&rpar; #nextjs13 #supabase #openai #chat #chatgpt #gpt3](https://www.youtube.com/watch?v=mEfEgh1EFJE)
 - [Next.js13とSupabaseでAI画像生成アプリ構築&lpar;OpenAI DALL・E&rpar; #nextjs13 #supabase #openai #dalle #midjourney](https://www.youtube.com/watch?v=G6zKGx5s8gI)
 - [Next.js 13新機能のApp DirectoryとSupabaseでブログ構築 #nextjs13 #appdirectory #supabase #blog #tutorial](https://www.youtube.com/watch?v=nQ7lKzI6RlE)
 - [DjangoをRenderにデプロイする方法 #django #render #deploy](https://www.youtube.com/watch?v=wwYMdRrqHwc)
 - [Django GraphQL入門とReact Native&lpar;TikTok&rpar;連携 #django #graphql #reactnative #tiktok](https://www.youtube.com/watch?v=W5ma8ySG-fo)
-- [React NativeでTikTokのホーム画面を開発 #reactnative  #tiktok](https://www.youtube.com/watch?v=z8mF0ETrNbI)
 <!-- YOUTUBE:END -->
 
 ---
