@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Next.js13とSupabaseで音声認識AIチャットアプリ構築&lpar;ChatGPT、Whisper&rpar; #nextjs13 #supabase #openai #chatgpt #whisper](https://www.youtube.com/watch?v=MwXqq0H2MpA)
 - [Next.js13とSupabaseのブログ完全版 #nextjs13 #supabase #blog](https://www.youtube.com/watch?v=0GjUAiRMnU4)
 - [Next.js13とSupabaseで構築したブログにコメント機能追加 #nextjs13 #supabase #blog](https://www.youtube.com/watch?v=aI7T2iOPiSk)
 - [Next.js13とSupabaseでAIチャットアプリ構築&lpar;GPT-3&rpar; #nextjs13 #supabase #openai #chat #chatgpt #gpt3](https://www.youtube.com/watch?v=mEfEgh1EFJE)
 - [Next.js13とSupabaseでAI画像生成アプリ構築&lpar;OpenAI DALL・E&rpar; #nextjs13 #supabase #openai #dalle #midjourney](https://www.youtube.com/watch?v=G6zKGx5s8gI)
-- [Next.js 13新機能のApp DirectoryとSupabaseでブログ構築 #nextjs13 #appdirectory #supabase #blog #tutorial](https://www.youtube.com/watch?v=nQ7lKzI6RlE)
 <!-- YOUTUBE:END -->
 
 ---
