@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Next.jsとSupabase、Stripeで構築するサブスクメンバーシップ機能 #nextjs13 #supabase #stripe #subscription](https://www.youtube.com/watch?v=_JJkn0zVQYQ)
 - [全てがここに！Next.jsとSupabaseで構築する認証システム #nextjs13 #supabase #authentication](https://www.youtube.com/watch?v=DWHR0jJrAp4)
 - [【ずんだもんコラボ】ChatGPTとVOICEVOXを組み合わせて音声チャットアプリを構築！あなたの選んだキャラが読み上げます！ #nextjs13 #voicevox #chatgpt #ずんだもん](https://www.youtube.com/watch?v=birLEMGFhYY)
 - [目標設定！Next.jsとLangChainで自動タスク生成アプリを作ろう #nextjs13 #langchain #chatgpt](https://www.youtube.com/watch?v=4L9gLSb4yzU)
 - [最強AI画像生成アプリ！Next.jsとStable Diffusionで画像生成アプリを作ろう #nextjs13 #stablediffusion #fastapi #diffusers](https://www.youtube.com/watch?v=KTQDNSc7s-Q)
-- [3Dで絵画を楽しむ！Next.jsとThree.jsで作るAIアートギャラリー&lpar;DALL・E&rpar; #nextjs13 #threejs #openai #dalle #art](https://www.youtube.com/watch?v=ivYenh-8EyM)
 <!-- YOUTUBE:END -->
 
 ---
