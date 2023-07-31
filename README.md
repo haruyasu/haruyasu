@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [ChatGPTの新機能「Function Calling」Next.jsとshadcn/uiで作るチャットアプリ #nextjs13 #shadcn #chagpt](https://www.youtube.com/watch?v=lGDR5LTYKUM)
 - [Next.jsとPrismaでブログ構築&lpar;投稿一覧、詳細、新規、編集、削除&rpar; #nextjs13 #prisma #nextauth](https://www.youtube.com/watch?v=9ybtC6oxNIc)
 - [Next.jsとPrismaで構築する認証システム&lpar;メールアドレス、Google認証&rpar; #nextjs13 #prisma #nextauth](https://www.youtube.com/watch?v=c25Ir8-NsvY)
 - [Next.jsとSupabase、Stripeで構築するサブスクメンバーシップ機能 #nextjs13 #supabase #stripe #subscription](https://www.youtube.com/watch?v=_JJkn0zVQYQ)
 - [全てがここに！Next.jsとSupabaseで構築する認証システム #nextjs13 #supabase #authentication](https://www.youtube.com/watch?v=DWHR0jJrAp4)
-- [【ずんだもんコラボ】ChatGPTとVOICEVOXを組み合わせて音声チャットアプリを構築！あなたの選んだキャラが読み上げます！ #nextjs13 #voicevox #chatgpt #ずんだもん](https://www.youtube.com/watch?v=birLEMGFhYY)
 <!-- YOUTUBE:END -->
 
 ---
