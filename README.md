@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [サブスク入門！Next.jsとPrisma、Stripeでサブスク機能を作ろう #nextjs13 #stripe #prisma #chagpt #quiz](https://www.youtube.com/watch?v=mLfePmKsCfw)
 - [目指せクイズ王！Next.jsとPrismaで構築するAIクイズアプリ&lpar;ChatGPT&rpar; #nextjs13 #prisma #shadcn #chagpt #quiz](https://www.youtube.com/watch?v=SOZkzE2_rkA)
 - [ChatGPTの新機能「Function Calling」Next.jsとshadcn/uiで作るチャットアプリ #nextjs13 #shadcn #chagpt](https://www.youtube.com/watch?v=lGDR5LTYKUM)
 - [Next.jsとPrismaでブログ構築&lpar;投稿一覧、詳細、新規、編集、削除&rpar; #nextjs13 #prisma #nextauth](https://www.youtube.com/watch?v=9ybtC6oxNIc)
 - [Next.jsとPrismaで構築する認証システム&lpar;メールアドレス、Google認証&rpar; #nextjs13 #prisma #nextauth](https://www.youtube.com/watch?v=c25Ir8-NsvY)
-- [Next.jsとSupabase、Stripeで構築するサブスクメンバーシップ機能 #nextjs13 #supabase #stripe #subscription](https://www.youtube.com/watch?v=_JJkn0zVQYQ)
 <!-- YOUTUBE:END -->
 
 ---
