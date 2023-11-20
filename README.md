@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [創造の新時代をリード！DALL・E 3とGPT-4 Visonで画像生成アプリを構築しよう！](https://www.youtube.com/watch?v=Gt1Icb7G-18)
 - [[完全版] T3 Stack入門！デプロイまで実践するサブスクアプリ構築マスターガイド](https://www.youtube.com/watch?v=EVjx7lAu0XQ)
 - [T3 Stack入門！サブスク&lpar;フリーミアム&rpar;システムを構築しよう！【4/4】T3 Stackを使用してアプリを開発したい方向けのシリーズ最終章です](https://www.youtube.com/watch?v=jyDbkUIIZfE)
 - [T3 Stack入門！コメントシステム&lpar;コメント、いいね、ページネーション&rpar;を構築しよう！【3/4】T3 Stackを使用してアプリを開発したい方向けのシリーズ第三弾です](https://www.youtube.com/watch?v=LidWFe0OlII)
 - [T3 Stack入門！ブログシステム&lpar;一覧、新規、編集、削除&rpar;を構築しよう！【2/4】T3 Stackを使用してアプリを開発したい方向けのシリーズ第二弾です](https://www.youtube.com/watch?v=F9fxUCcV3Uk)
-- [T3 Stack入門！認証システムを構築しよう！【1/4】T3 Stackを使用してアプリを開発したい方向けのシリーズ第一弾です](https://www.youtube.com/watch?v=hwxMoKAbk-M)
 <!-- YOUTUBE:END -->
 
 ---
