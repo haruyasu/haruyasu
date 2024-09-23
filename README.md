@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【リメイク版】最新のNext.jsとSupabaseで認証ブログを作ろう](https://www.youtube.com/watch?v=g5XPPGikJqY)
 - [【すぐに運用可能】Next.jsとmicroCMSで技術ブログを作ろう](https://www.youtube.com/watch?v=vZU2WE3mdyE)
 - [DjangoとLINEで予約システムを構築しよう](https://www.youtube.com/watch?v=y4rghYMkjnE)
 - [Next.js14とDjango5で作る！ブログシステム構築入門&lpar;後編&rpar;](https://www.youtube.com/watch?v=TaF0M0eCt0A)
 - [Next.js14とDjango5で作る！認証システム構築入門&lpar;前編&rpar;](https://www.youtube.com/watch?v=Jzp3ZAL0PFA)
-- [創造の新時代をリード！DALL・E 3とGPT-4 Visonで画像生成アプリを構築しよう！](https://www.youtube.com/watch?v=Gt1Icb7G-18)
 <!-- YOUTUBE:END -->
 
 ---
