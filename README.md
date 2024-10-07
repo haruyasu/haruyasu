@@ -23,11 +23,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【紹介動画】フルスタックチャンネル](https://www.youtube.com/watch?v=lZ5n-xcxS3k)
+- [【超入門】ゲーム制作の楽しさを体験！Godotで作る2Dプラットフォーマー](https://www.youtube.com/watch?v=us3BMH7hvyw)
 - [【リメイク版】最新のNext.jsとSupabaseで認証ブログを作ろう](https://www.youtube.com/watch?v=g5XPPGikJqY)
 - [【すぐに運用可能】Next.jsとmicroCMSで技術ブログを作ろう](https://www.youtube.com/watch?v=vZU2WE3mdyE)
 - [DjangoとLINEで予約システムを構築しよう](https://www.youtube.com/watch?v=y4rghYMkjnE)
-- [Next.js14とDjango5で作る！ブログシステム構築入門&lpar;後編&rpar;](https://www.youtube.com/watch?v=TaF0M0eCt0A)
-- [Next.js14とDjango5で作る！認証システム構築入門&lpar;前編&rpar;](https://www.youtube.com/watch?v=Jzp3ZAL0PFA)
 <!-- YOUTUBE:END -->
 
 ---
